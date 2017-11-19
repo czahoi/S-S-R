@@ -489,7 +489,7 @@
 	"randomInGroup" : false,
 	"TTL" : 0,
 	"connectTimeout" : 5,
-	"proxyRuleMode" : 2,
+	"proxyRuleMode" : 16,
 	"proxyEnable" : false,
 	"pacDirectGoProxy" : false,
 	"proxyType" : 0,
@@ -504,9 +504,12 @@
 	"sameHostForSameTarget" : false,
 	"keepVisitTime" : 180,
 	"isHideTips" : false,
-	"nodeFeedAutoUpdate" : true,
+	"nodeFeedAutoUpdate" : false,
 	"serverSubscribes" : [
-
+		{
+			"URL" : "https://raw.githubusercontent.com/breakwa11/breakwa11.github.io/master/free/freenodeplain.txt",
+			"Group" : ""
+		}
 	],
 	"token" : {
 
