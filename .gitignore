@@ -1,1 +1,3 @@
 temp/*.log
+temp/privoxy.conf
+transfer_log.json
